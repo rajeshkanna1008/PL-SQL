@@ -1,0 +1,21 @@
+1. Write a PL/SQL block to declare and open an explicit cursor to fetch employee names from an "employees" table.
+2. Write a PL/SQL block to update the salary of an employee based on their department ID using a cursor.
+3. Create a PL/SQL function to calculate the average salary of employees in a given department.
+4. Create a PL/SQL block to fetch and display employee details using a cursor FOR loop.
+5. Write a PL/SQL block to insert a new employee record into the "employees" table and return the newly generated employee ID.
+6. Create a PL/SQL function to return the number of employees in a given department.
+7. Create a PL/SQL block to delete all employees from a specified department.
+8. Create a PL/SQL function to calculate the total number of years of service for an employee using cursors.
+9. Write a PL/SQL program to demonstrate the usage of nested cursors to fetch employee details from multiple tables.
+10. Create a PL/SQL function to calculate the total number of employees hired in a specific year using cursor.
+11. Create a PL/SQL function to get the manager name and his reportie names in comma saparated values.
+12. Write a PL/SQL program using cursor and functions to fetch all employee details, and load them into a temp table(only unique  
+13. values)
+14. Write a PL/SQL program to accept the user input and insert the data into the temp table and delete from the base table.
+15. Create a PL/SQL function that calculates the factorial of a given number recursively.
+16. Write a PL/SQL function that takes two parameters (height and base) and returns the area of a triangle.
+17. Create a PL/SQL function to calculate the Fibonacci sequence up to a given number 'n'.
+18. Create a PL/SQL function to generate a random password with a specified length, ensuring it meets certain complexity 	
+	requirements (e.g., containing at least one uppercase letter, one lowercase letter, one digit, and one special character).
+19. Create a PL/SQL function that returns the nearest prime number to a given number.
+20. Write a PL/SQL function to check if a given string is a palindrome or not.
